@@ -7,4 +7,4 @@ foreach($array as $element){
     echo $element;
 }
 
-
+echo "test";
